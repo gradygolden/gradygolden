@@ -1,9 +1,9 @@
 <h1>Hello, I'm Grady </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
--This repository is in progress as I upload my projects over the next several weeks
-
+-This is a new page and I will be adding my projects to this repository over the next several weeks.
 
 -[Project Repository](https://github.com/gradygolden/Cybersecurity-Projects)
+
 <h2>📄 Certifications:</h2>
 -CompTIA Security+
 
