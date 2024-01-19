@@ -1,12 +1,15 @@
 <h1>Hello, I'm Grady </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+-This repository is in progress as I upload my projects over the next several weeks
 
+
+-[Project Repository](https://github.com/gradygolden/Cybersecurity-Projects)
 <h2>📄 Certifications:</h2>
 -CompTIA Security+
 
 -Cisco Certified CyberOps Associate
 
--[Certification PDF Repository](https://github.com/gradygolden/Certifications)
+-[Certificates PDF Repository](https://github.com/gradygolden/Certifications)
 
 <h2> 🤳 Connect with me:</h2>
 
