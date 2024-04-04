@@ -1,6 +1,6 @@
 <h1>Hello, I'm Grady </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
--This is a new page and I will be adding my projects to this repository over the next several weeks.
+
 
 
 -[Project Repository](https://github.com/gradygolden/Cybersecurity-Projects)
