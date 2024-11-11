@@ -21,7 +21,7 @@ Mimecast Certified: Web Security
 
 Mimecast Certified: DMARC Analyzer
 
--[Certificates PDF Repository](https://github.com/gradygolden/Certifications)
+
 
 <h2> 🤳 Connect with me:</h2>
 
