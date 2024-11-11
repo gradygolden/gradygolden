@@ -9,11 +9,16 @@
 -CompTIA Security+
 
 -Cisco Certified CyberOps Associate
+
 -Microsoft Certified: Azure Fundamentals AZ-900
+
 -Fortinet Certified Fundamentals in Cybersecurity
+
 -Fortinet Certified Associate in Cybersecurity
-- Mimecast Certified: Web Security
-- Mimecast Certified: DMARC Analyzer
+
+-Mimecast Certified: Web Security
+
+-Mimecast Certified: DMARC Analyzer
 
 -[Certificates PDF Repository](https://github.com/gradygolden/Certifications)
 
