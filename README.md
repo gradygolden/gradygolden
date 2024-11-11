@@ -6,19 +6,20 @@
 -[Project Repository](https://github.com/gradygolden/Cybersecurity-Projects)
 
 <h2>📄 Certifications:</h2>
--CompTIA Security+
 
--Cisco Certified CyberOps Associate
+CompTIA Security+ 
 
--Microsoft Certified: Azure Fundamentals AZ-900
+Cisco Certified CyberOps Associate 
 
--Fortinet Certified Fundamentals in Cybersecurity
+Microsoft Certified: Azure Fundamentals AZ-900
 
--Fortinet Certified Associate in Cybersecurity
+Fortinet Certified Fundamentals in Cybersecurity
 
--Mimecast Certified: Web Security
+Fortinet Certified Associate in Cybersecurity
 
--Mimecast Certified: DMARC Analyzer
+Mimecast Certified: Web Security
+
+Mimecast Certified: DMARC Analyzer
 
 -[Certificates PDF Repository](https://github.com/gradygolden/Certifications)
 
